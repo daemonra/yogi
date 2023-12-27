@@ -18,4 +18,7 @@ A timer tracks the elapsed time from the start of each game level, contributing 
 # Attachments:
 - UML Diagram for the classes and packages used in this project.
 - Full Documentation with test cases.
-- SQL file to setup the required database for the HighScore classes.
+- SQL file to set up the required database for the HighScore classes.
+
+
+made by Deaa Rasheed
