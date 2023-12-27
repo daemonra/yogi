@@ -1,0 +1,13 @@
+; LEVEL 7
+    TTT    TTTTT
+    T TT  TT    T
+  TTT  TTTT  TT TMT
+TMT    M    T   B T
+TB  TU   MTT  L   T
+TB BBT@ TT TTTBBTTT
+TTT TMTT T TMMMMTT
+ T   L  TTTT
+ TBBBMMTT
+ TTMMTT
+
+;

@@ -1,0 +1,18 @@
+; LEVEL 5
+
+  TTTTTMTTTTT
+ MT    T    TM
+MT B BBTBB B TM
+T TBDT T T   BT
+T B    T      T
+T BT  TMTTDT  T
+T B    T     BT
+TMMMMT @ TMMMMT
+T B         B T
+T  BT  T  TB  T
+T BT  BTB  TB T
+MTT  LTMTR  TTM
+ MT   BTB   TM
+  TTTTTMTTTTT
+
+;

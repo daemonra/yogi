@@ -1,0 +1,16 @@
+; LEVEL 10
+
+    MTTTTTTTTT
+   TT         TTT
+   T  BB B B BD T
+   T   TTMMMTT M TTTTT
+ TTMT TT  M     M M  LT
+ T  B T  B B T  TTT T T
+TT RT T   TTTTT     DBBT
+T     TTTTTT B  TTTT TMT
+T    U     B     T    T
+T@  TTTTTTTTTTT B  B T T
+TMMMT          MTTTT BT
+                   TMTT
+
+;

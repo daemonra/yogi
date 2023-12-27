@@ -1,0 +1,15 @@
+; LEVEL 8
+
+    TTTTTTTT
+    T      TT
+TTTTT TTT   TT
+T      BT  L T
+T@TMMMDBTTBTT
+T  T   MTTMTM
+ T  TT  TDTBT
+  T  TTTT B T
+   T         T
+    TTTTT  TT
+        TTTT
+
+;

@@ -1,0 +1,18 @@
+; LEVEL 3
+
+           TMTTT
+          TT  BT
+    TTTTT T    T
+    T   MTB   T
+    T M TMM  TMT
+    T    LT T T
+   TT TT TBUT T
+   TB  T  T T T
+   T  BT      T
+TMMTT TTTMMMTTT
+T    BB  T
+T      BBT
+T   TTTTTT
+M@TTT
+
+;

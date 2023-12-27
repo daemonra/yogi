@@ -1,0 +1,15 @@
+; LEVEL 1
+
+   MTT
+  MT T TTT
+ MT  TTTDBT
+MT        T
+M   @M T  T
+MTT  MTT  T
+  T  M    T
+ TT MM T TT
+ T   R  TT
+ TB    TT
+ TTTTTTTT
+
+; 

@@ -1,0 +1,21 @@
+; LEVEL 9
+
+      MTTTTT
+      T    T
+      T @  TMT
+TTTT  T     BT
+TBBMTTT  T TBTTTTT
+T B B TT     L   T
+T       R  MBT   T
+TMTTTT MMBMB TTTTT
+     TB D    T
+     TTT TTTT
+       T  MT
+       T   TTTT
+     TMT     BT
+     T    L    T
+     T BTMT TTT
+     TBBBBBT
+     TTMMTT
+
+;
