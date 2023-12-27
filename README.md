@@ -21,4 +21,4 @@ A timer tracks the elapsed time from the start of each game level, contributing 
 - SQL file to set up the required database for the HighScore classes.
 
 
-made by Deaa Rasheed
+
