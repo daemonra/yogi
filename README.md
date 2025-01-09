@@ -17,7 +17,7 @@ A timer tracks the elapsed time from the start of each game level, contributing 
 
 # Attachments:
 - UML Diagram for the classes and packages used in this project.
-- Full Documentation with test cases.
+- Full Documentation with test cases. [https://github.com/your-username](https://github.com/daemonra/yogi/blob/main/Yogi/documentation.pdf)
 - SQL file to set up the required database for the HighScore classes.
 
 
